@@ -1,2 +1,2 @@
-# Modpack-IssueTracker
-The issue tracker for the MultiCube Modpack
+# Modpack
+This is where we store public information about the MultiCube Modpack
